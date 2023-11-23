@@ -35,8 +35,9 @@ const userObject = {
     name : "Aryan",
     roll : 21,
     age : 19,
-    isLoggedIn = true
+    isLoggedIn: true
 }
+
 
 //function 
 const sayHello = function(){
