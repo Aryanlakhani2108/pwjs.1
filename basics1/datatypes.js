@@ -2,7 +2,7 @@
 
 // Primitive and Reference (Non - Primitive)
 
-// Primitive :
+// Primitive (STACK):
 /*
 Strings
 Numbers
@@ -22,7 +22,7 @@ const buttonId = Symbol("id");
 const aReallyLongNumber = 23874928372398n;
 
 /*
-Reference : 
+Reference (HEAP) : 
 Arrays 
 Objects
 Function 
