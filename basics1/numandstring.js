@@ -24,3 +24,14 @@ console.log(email.includes('hc')); // includes() => asks question like does emai
 
 let uppercaseEmail = email.toUpperCase();
 console.log(uppercaseEmail); 
+
+const num = new Number(5.345783458349);
+console.log(num.toFixed(3)); // .toFixed(num) => made to round the decimal number upto 3 decimal places
+
+const subcribers = 100000
+console.log(subcribers.toLocaleString()); // made 100000 to 100,000
+
+console.log(Number.MAX_VALUE); // gives us the maximum value js can hold 1.7976931348623157e+308
+
+console.log(Math.floor(Math.random()*10));
+
