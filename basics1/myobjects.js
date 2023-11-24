@@ -26,8 +26,12 @@ user.email = "hitesh@pw.live"
 delete user.isAdmin;
 // console.log(user);
 
-// console.log(Object.keys(user)); keys => Returns the names of the enumerable string properties and methods of an object.
-// console.log(Object.values(user));  values => Returns an array of values of the enumerable properties of an object
+console.log(Object.keys(user)); keys => Returns the names of the enumerable string properties and methods of an object.
+console.log(Object.values(user));  values => Returns an array of values of the enumerable properties of an object
+
+console.log(Object.entries(user)); //Returns an array of key/values of the enumerable properties of an object
+
+console.log(user.hasOwnProperty('keyboard')); //Determines whether an object has a property with the specified name.
 
 
 
