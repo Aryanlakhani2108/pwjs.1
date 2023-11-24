@@ -20,4 +20,6 @@ console.log(dcHeroes);
 
 // console.log(dcHeroes.slice(1,3));
 
+// console.log(dcHeroes.splice(1,3));
+
 
