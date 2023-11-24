@@ -35,3 +35,4 @@ console.log(Number.MAX_VALUE); // gives us the maximum value js can hold 1.79769
 
 console.log(Math.floor(Math.random()*10));
 
+
